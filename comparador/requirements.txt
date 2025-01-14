@@ -1,5 +1,7 @@
 streamlit
-selenium==4.10.0  # Pode ajustar a versão do selenium conforme necessário
+selenium 
+webdriver
 webdriver-manager==5.4.0
 requests
 beautifulsoup4
+pandas
